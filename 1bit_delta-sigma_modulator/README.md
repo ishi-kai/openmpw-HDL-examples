@@ -19,33 +19,57 @@ FPGAの開発環境である[Efinity](https://www.efinixinc.com/jp/products-efin
 
 ## Verilog学習
 
+
+### 対象資料
 - [Verilog学習その1(PDF版)](/1bit_delta-sigma_modulator/doc/Verilog_1st.pdf)
 - [Verilog学習その2(PDF版)](/1bit_delta-sigma_modulator/doc/Verilog_2nd.pdf)
 - [Verilog学習その3(PDF版)](/1bit_delta-sigma_modulator/doc/Verilog_3rd.pdf)
 - [Verilog学習その3(PPTX版)](/1bit_delta-sigma_modulator/doc/Verilog_3rd.pdf)
 
+### 対象録画データ
+- [Verilogの基礎その1のYouTube動画](https://www.youtube.com/watch?v=4USHCNKCveY)
+- [Verilogの基礎その2のYouTube動画](https://www.youtube.com/watch?v=i-zB5A6gZh8)
+- [Verilogの基礎その3のYouTube動画](https://www.youtube.com/watch?v=8vWkD8OhERI)
+
 ### 対象ソースコード
-- [/1bit_delta-sigma_modulator/src/xxx.v]
+- [xxx.v](/1bit_delta-sigma_modulator/src/xxx.v)
 
 
 ## 1bitΔΣADC
 
+### 対象資料
 - [1bitΔΣADC(PDF版)](/1bit_delta-sigma_modulator/doc/delta_sigma_adc.pdf)
 - [1bitΔΣADC(PPTX版)](/1bit_delta-sigma_modulator/doc/delta_sigma_adc.pdf)
 
+### 対象録画データ
+- [1bitΔΣ変調器のADCのYouTube動画](https://www.youtube.com/watch?v=NkOG854vl1s)
+
 ### 対象ソースコード
-- [/1bit_delta-sigma_modulator/src/xxx.v]
+- [xxx.v](/1bit_delta-sigma_modulator/src/xxx.v)
 
 
 ## 1bitΔΣDAC
 
+### 対象資料
 - [1bitΔΣDAC(PDF版)](/1bit_delta-sigma_modulator/doc/delta_sigma_dac.pdf)
 - [1bitΔΣDAC(PPTX版)](/1bit_delta-sigma_modulator/doc/delta_sigma_dac.pdf)
 
+### 対象録画データ
+- [1bitΔΣ変調器のDACのYouTube動画](https://www.youtube.com/watch?v=Lq2GKOYtoWA)
 
 ### 対象ソースコード
-- [/1bit_delta-sigma_modulator/src/xxx.v]
+- [xxx.v](/1bit_delta-sigma_modulator/src/xxx.v)
 
+
+## 1bitΔΣパイプライン化
+
+### 対象資料
+
+### 対象録画データ
+- [1bitΔΣ変調器のパイプライン化のYouTube動画](https://www.youtube.com/watch?v=96138Cocgd8)
+
+### 対象ソースコード
+- [xxx.v](/1bit_delta-sigma_modulator/src/xxx.v)
 
 
 ## マニュアル一覧
@@ -60,3 +84,11 @@ FPGAの開発環境である[Efinity](https://www.efinixinc.com/jp/products-efin
 - [1bitΔΣADC(PPTX版)](/1bit_delta-sigma_modulator/doc/delta_sigma_adc.pdf)
 - [1bitΔΣDAC(PDF版)](/1bit_delta-sigma_modulator/doc/delta_sigma_dac.pdf)
 - [1bitΔΣDAC(PPTX版)](/1bit_delta-sigma_modulator/doc/delta_sigma_dac.pdf)
+
+## 講座の録画データ
+- [Verilogの基礎その1のYouTube動画](https://www.youtube.com/watch?v=4USHCNKCveY)
+- [Verilogの基礎その2のYouTube動画](https://www.youtube.com/watch?v=i-zB5A6gZh8)
+- [Verilogの基礎その3のYouTube動画](https://www.youtube.com/watch?v=8vWkD8OhERI)
+- [1bitΔΣ変調器のADCのYouTube動画](https://www.youtube.com/watch?v=NkOG854vl1s)
+- [1bitΔΣ変調器のDACのYouTube動画](https://www.youtube.com/watch?v=Lq2GKOYtoWA)
+- [1bitΔΣ変調器のパイプライン化のYouTube動画](https://www.youtube.com/watch?v=96138Cocgd8)
