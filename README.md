@@ -1,4 +1,4 @@
-# Examples of Transistor-Level Simulation for OpenMPW
+# Examples of HDL for OpenMPW
 SPDX-License-Identifier: Apache-2.0 
 
 - Copyright 2026 Masahiro FUKUOKA
