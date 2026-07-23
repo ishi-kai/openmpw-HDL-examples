@@ -22,7 +22,9 @@ FPGAの開発環境である[Efinity](https://www.efinixinc.com/jp/products-efin
 
 ### 対象資料
 - [Verilog学習その1(PDF版)](/1bit_delta-sigma_modulator/doc/Verilog_1st.pdf)
+- [Verilog学習その1(PPTX版)](/1bit_delta-sigma_modulator/doc/Verilog_1st.pdf)
 - [Verilog学習その2(PDF版)](/1bit_delta-sigma_modulator/doc/Verilog_2nd.pdf)
+- [Verilog学習その2(PPTX版)](/1bit_delta-sigma_modulator/doc/Verilog_2nd.pdf)
 - [Verilog学習その3(PDF版)](/1bit_delta-sigma_modulator/doc/Verilog_3rd.pdf)
 - [Verilog学習その3(PPTX版)](/1bit_delta-sigma_modulator/doc/Verilog_3rd.pdf)
 
@@ -81,7 +83,9 @@ FPGAの開発環境である[Efinity](https://www.efinixinc.com/jp/products-efin
 - [BOMリスト(PDF版)](/1bit_delta-sigma_modulator/doc/BOMLIST.pdf)
 - [BOMリスト(XLSX版)](/1bit_delta-sigma_modulator/doc/BOMLIST.xlsx)
 - [Verilog学習その1(PDF版)](/1bit_delta-sigma_modulator/doc/Verilog_1st.pdf)
+- [Verilog学習その1(PPTX版)](/1bit_delta-sigma_modulator/doc/Verilog_1st.pdf)
 - [Verilog学習その2(PDF版)](/1bit_delta-sigma_modulator/doc/Verilog_2nd.pdf)
+- [Verilog学習その2(PPTX版)](/1bit_delta-sigma_modulator/doc/Verilog_2nd.pdf)
 - [Verilog学習その3(PDF版)](/1bit_delta-sigma_modulator/doc/Verilog_3rd.pdf)
 - [Verilog学習その3(PPTX版)](/1bit_delta-sigma_modulator/doc/Verilog_3rd.pdf)
 - [1bitΔΣADC(PDF版)](/1bit_delta-sigma_modulator/doc/delta_sigma_adc.pdf)
