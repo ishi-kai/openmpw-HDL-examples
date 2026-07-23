@@ -66,8 +66,8 @@ FPGAの開発環境である[Efinity](https://www.efinixinc.com/jp/products-efin
 ## 1bitΔΣパイプライン化
 
 ### 対象資料
-- [1bitΔΣパイプライン化(PDF版)](/1bit_delta-sigma_modulator/doc/delta_sigma_pipeline.pdf)
-- [1bitΔΣパイプライン化(PPTX版)](/1bit_delta-sigma_modulator/doc/delta_sigma_pipeline.pdf)
+- [1bitΔΣパイプライン化(PDF版)](/1bit_delta-sigma_modulator/doc/pipeline.pdf)
+- [1bitΔΣパイプライン化(PPTX版)](/1bit_delta-sigma_modulator/doc/pipeline.pdf)
 
 ### 対象録画データ
 - [1bitΔΣ変調器のパイプライン化のYouTube動画](https://www.youtube.com/watch?v=96138Cocgd8)
@@ -88,8 +88,8 @@ FPGAの開発環境である[Efinity](https://www.efinixinc.com/jp/products-efin
 - [1bitΔΣADC(PPTX版)](/1bit_delta-sigma_modulator/doc/delta_sigma_adc.pdf)
 - [1bitΔΣDAC(PDF版)](/1bit_delta-sigma_modulator/doc/delta_sigma_dac.pdf)
 - [1bitΔΣDAC(PPTX版)](/1bit_delta-sigma_modulator/doc/delta_sigma_dac.pdf)
-- [1bitΔΣパイプライン化(PDF版)](/1bit_delta-sigma_modulator/doc/delta_sigma_pipeline.pdf)
-- [1bitΔΣパイプライン化(PPTX版)](/1bit_delta-sigma_modulator/doc/delta_sigma_pipeline.pdf)
+- [1bitΔΣパイプライン化(PDF版)](/1bit_delta-sigma_modulator/doc/pipeline.pdf)
+- [1bitΔΣパイプライン化(PPTX版)](/1bit_delta-sigma_modulator/doc/pipeline.pdf)
 
 ## 講座の録画データ
 - [Verilogの基礎その1のYouTube動画](https://www.youtube.com/watch?v=4USHCNKCveY)
