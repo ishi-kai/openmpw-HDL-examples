@@ -32,7 +32,9 @@ FPGAの開発環境である[Efinity](https://www.efinixinc.com/jp/products-efin
 - [Verilogの基礎その3のYouTube動画](https://www.youtube.com/watch?v=8vWkD8OhERI)
 
 ### 対象ソースコード
-- [xxx.v](/1bit_delta-sigma_modulator/src/xxx.v)
+- [Verilog学習その1](/1bit_delta-sigma_modulator/hdl/day1/)
+- [Verilog学習その2](/1bit_delta-sigma_modulator/hdl/day2/)
+- [Verilog学習その3](/1bit_delta-sigma_modulator/hdl/day3/)
 
 
 ## 1bitΔΣADC
@@ -45,7 +47,7 @@ FPGAの開発環境である[Efinity](https://www.efinixinc.com/jp/products-efin
 - [1bitΔΣ変調器のADCのYouTube動画](https://www.youtube.com/watch?v=NkOG854vl1s)
 
 ### 対象ソースコード
-- [xxx.v](/1bit_delta-sigma_modulator/src/xxx.v)
+- [1bitΔΣ変調器のADC](/1bit_delta-sigma_modulator/hdl/day4/)
 
 
 ## 1bitΔΣDAC
@@ -58,18 +60,20 @@ FPGAの開発環境である[Efinity](https://www.efinixinc.com/jp/products-efin
 - [1bitΔΣ変調器のDACのYouTube動画](https://www.youtube.com/watch?v=Lq2GKOYtoWA)
 
 ### 対象ソースコード
-- [xxx.v](/1bit_delta-sigma_modulator/src/xxx.v)
+- [1bitΔΣ変調器のDAC](/1bit_delta-sigma_modulator/hdl/day5/)
 
 
 ## 1bitΔΣパイプライン化
 
 ### 対象資料
+- [1bitΔΣパイプライン化(PDF版)](/1bit_delta-sigma_modulator/doc/delta_sigma_pipeline.pdf)
+- [1bitΔΣパイプライン化(PPTX版)](/1bit_delta-sigma_modulator/doc/delta_sigma_pipeline.pdf)
 
 ### 対象録画データ
 - [1bitΔΣ変調器のパイプライン化のYouTube動画](https://www.youtube.com/watch?v=96138Cocgd8)
 
 ### 対象ソースコード
-- [xxx.v](/1bit_delta-sigma_modulator/src/xxx.v)
+- [1bitΔΣ変調器のパイプライン化](/1bit_delta-sigma_modulator/hdl/day6/)
 
 
 ## マニュアル一覧
@@ -84,6 +88,8 @@ FPGAの開発環境である[Efinity](https://www.efinixinc.com/jp/products-efin
 - [1bitΔΣADC(PPTX版)](/1bit_delta-sigma_modulator/doc/delta_sigma_adc.pdf)
 - [1bitΔΣDAC(PDF版)](/1bit_delta-sigma_modulator/doc/delta_sigma_dac.pdf)
 - [1bitΔΣDAC(PPTX版)](/1bit_delta-sigma_modulator/doc/delta_sigma_dac.pdf)
+- [1bitΔΣパイプライン化(PDF版)](/1bit_delta-sigma_modulator/doc/delta_sigma_pipeline.pdf)
+- [1bitΔΣパイプライン化(PPTX版)](/1bit_delta-sigma_modulator/doc/delta_sigma_pipeline.pdf)
 
 ## 講座の録画データ
 - [Verilogの基礎その1のYouTube動画](https://www.youtube.com/watch?v=4USHCNKCveY)
@@ -92,3 +98,11 @@ FPGAの開発環境である[Efinity](https://www.efinixinc.com/jp/products-efin
 - [1bitΔΣ変調器のADCのYouTube動画](https://www.youtube.com/watch?v=NkOG854vl1s)
 - [1bitΔΣ変調器のDACのYouTube動画](https://www.youtube.com/watch?v=Lq2GKOYtoWA)
 - [1bitΔΣ変調器のパイプライン化のYouTube動画](https://www.youtube.com/watch?v=96138Cocgd8)
+
+## 講座のソースコード
+- [Verilog学習その1](/1bit_delta-sigma_modulator/hdl/day1/)
+- [Verilog学習その2](/1bit_delta-sigma_modulator/hdl/day2/)
+- [Verilog学習その3](/1bit_delta-sigma_modulator/hdl/day3/)
+- [1bitΔΣ変調器のADC](/1bit_delta-sigma_modulator/hdl/day4/)
+- [1bitΔΣ変調器のDAC](/1bit_delta-sigma_modulator/hdl/day5/)
+- [1bitΔΣ変調器のパイプライン化](/1bit_delta-sigma_modulator/hdl/day6/)
