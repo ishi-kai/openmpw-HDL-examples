@@ -13,6 +13,7 @@ FPGAの開発環境である[Efinity](https://www.efinixinc.com/jp/products-efin
 その環境構築のための資料です。  
 
 - [Efinityインストールマニュアル(PDF版)](/1bit_delta-sigma_modulator/doc/Install.pdf)
+- [Efinityインストールマニュアル(PPTX版)](/1bit_delta-sigma_modulator/doc/Install.pptx)
 - [BOMリスト(PDF版)](/1bit_delta-sigma_modulator/doc/BOMLIST.pdf)
 - [BOMリスト(XLSX版)](/1bit_delta-sigma_modulator/doc/BOMLIST.xlsx)
 
@@ -80,6 +81,7 @@ FPGAの開発環境である[Efinity](https://www.efinixinc.com/jp/products-efin
 
 ## マニュアル一覧
 - [Efinityインストールマニュアル(PDF版)](/1bit_delta-sigma_modulator/doc/Install.pdf)
+- [Efinityインストールマニュアル(PPTX版)](/1bit_delta-sigma_modulator/doc/Install.pptx)
 - [BOMリスト(PDF版)](/1bit_delta-sigma_modulator/doc/BOMLIST.pdf)
 - [BOMリスト(XLSX版)](/1bit_delta-sigma_modulator/doc/BOMLIST.xlsx)
 - [Verilog学習その1(PDF版)](/1bit_delta-sigma_modulator/doc/Verilog_1st.pdf)
